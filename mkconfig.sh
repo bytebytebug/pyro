@@ -1,5 +1,3 @@
 mkdir -p ~/.config/wayfire
 
-cp wayfire.ini ~/.config/wayfire/wayfire.ini
-
-
+git clone https://github.com/bytebytebug/wayfire.git
