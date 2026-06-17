@@ -1,5 +1,5 @@
-mkdir -p ~/.config
+mkdir -p ~/.config/wayfire
 
-cp wayfire.ini ~/.config/wayfire.ini
+cp wayfire.ini ~/.config/wayfire/wayfire.ini
 
 
